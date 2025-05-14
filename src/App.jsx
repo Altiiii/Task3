@@ -7,7 +7,8 @@ function App() {
 
   return (
     <>
-        <h2 className='text-blue-800'>Testing jira</h2>
+        <h2 className='text-blue-800'>Testijm kejt me rend</h2>
+        <h2 className='text-blue-800'>Ishallah bohet denisend</h2>
     </>
   )
 }
