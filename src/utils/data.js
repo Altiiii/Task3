@@ -1,4 +1,4 @@
-const transactions = [
+export const transactions = [
     { title: "Grocery Store", category: "Food", amount: -45.30, transactionDate: "2025-05-01" },
     { title: "Monthly Rent", category: "Rent", amount: -700.00, transactionDate: "2025-05-01" },
     { title: "Salary", category: "Income", amount: 2500.00, transactionDate: "2025-05-01" },
