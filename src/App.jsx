@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-        <h2 className='text-blue-800'>Testing Jiraaaa</h2>
+        <h2 className='text-blue-800'>Testing Jiraaaaaaa</h2>
     </>
   )
 }
