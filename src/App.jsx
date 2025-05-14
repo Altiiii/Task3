@@ -11,6 +11,10 @@ function App() {
         <h2 className='text-blue-800'>Testijm kejt me rend</h2>
 
         <h2 className='text-blue-800'>Ishaffffllah bohet denisend</h2>
+        <h2 className='text-blue-800'>Ishaffffllah bohet denisend</h2>
+        <h2 className='text-blue-800'>Ishaffffllah bohet denisend</h2>
+        <h2 className='text-blue-800'>Ishaffffllah bohet denisend</h2>
+        <h2 className='text-blue-800'>Ishaffffllah bohet denisend zjarrr</h2>
         <h2>Test Agaim</h2>
 
 
