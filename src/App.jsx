@@ -9,6 +9,7 @@ function App() {
     <>
         <h2 className='text-green-800'>Testing jira</h2>
         <h2 className='text-blue-800'>Here we test connection again</h2>
+        <h2 className='text-blue-800'>we are  we test connection again</h2>
     </>
   )
 }
