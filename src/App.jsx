@@ -9,13 +9,11 @@ function App() {
     <>
  TAS-20-test-github-codee
         <h2 className='text-blue-800'>Testijm kejt me rend</h2>
-        <h2 className='text-blue-800'>Ishallah bohet denisend</h2>
 
-        <h2 className='text-green-800'>Testing jira</h2>
-        <h2 className='text-blue-800'>Here we test connection again</h2>
-        <h2 className='text-blue-800'>we are  we test connection again</h2>
-        <h2 className='text-blue-800'>Njo di tre</h2>
-main
+        <h2 className='text-blue-800'>Ishaffffllah bohet denisend</h2>
+        <h2>Test Agaim</h2>
+
+
     </>
   )
 }
